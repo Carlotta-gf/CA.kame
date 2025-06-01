@@ -10,5 +10,11 @@
     "description": "Ini adalah isi dari berita kedua.",
     "date": "2025-06-02",
     "image": "https://files.catbox.moe/abcd12.jpg"
+  },
+  {
+    "title": "Hi, Im Carla",
+    "description": "Carla adalah sebuah bot whatsapp",
+    "date": "2025-06-01",
+    "image": "https://files.catbox.moe/ww0nnq.jpg"
   }
 ]
