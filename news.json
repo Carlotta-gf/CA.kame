@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Judul Berita 1",
+    "description": "Ini adalah isi dari berita pertama.",
+    "date": "2025-06-01",
+    "image": "https://files.catbox.moe/vqivcd.jpg"
+  },
+  {
+    "title": "Judul Berita 2",
+    "description": "Ini adalah isi dari berita kedua.",
+    "date": "2025-06-02",
+    "image": "https://files.catbox.moe/abcd12.jpg"
+  }
+]
