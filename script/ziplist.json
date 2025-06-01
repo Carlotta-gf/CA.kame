@@ -2,6 +2,7 @@
   {
     "title": "Akame Script",
     "version": "Akame v4.0.0e",
-    "file": "./script/akame_script.zip"
+    "file": "./script/akame_script.zip",
+    "thumbnail": "https://i.ibb.co/xyz.jpg"
   }
 ]
