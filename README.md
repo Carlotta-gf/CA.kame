@@ -12,7 +12,7 @@ Kolaborasi powerful antara **Web Dashboard Modern** dan **Bot WhatsApp Otomatis*
 - 📊 **Dashboard Data Realtime** dari file GitHub
 - 🤝 **Kolaborasi Satu Pusat Data** (sinkronisasi GitHub)
 - 🧠 **Fitur AI Chat** (integrasi GPT, Neoxr API, atau Gemini)
-- 💬 **Kontrol Bot dari Web** (auto-reply, AI, broadcast)
+- 💬 **Kontrol Bot dari Whatsapp** (auto-reply, AI, broadcast)
 
 ---
 
